@@ -20,6 +20,10 @@ The purpose of these short descriptions is to give a clear and concise understan
   - `git push`  
   Additionally, the video includes a guide on how to install Git.
 
+- [aKaReZa 95 - Programming, Git - PART B](https://youtu.be/zYiUItVFRqQ)  
+  ---  
+  Explore Git project management in this video. Learn about GitHub repositories, organizing projects, accessing libraries, using design templates, and exploring hardware and programming repositories for AVR, STM32, and ESP8266 microcontrollers.
+
 # 🌟 Support Me
 If you found this repository useful:
 - Subscribe to my [YouTube Channel](https://www.youtube.com/@aKaReZa75).

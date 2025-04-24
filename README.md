@@ -2,9 +2,6 @@
 **Git** is a free, open-source distributed version control system designed to handle projects of all sizes with speed and efficiency.  
 It is widely used to track changes in source code during software development and enables multiple developers to work collaboratively on projects. 
 
-> [!CAUTION]
-> It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
-
 <table>
   <tr>
   <td valign="top">
@@ -23,7 +20,17 @@ It is widely used to track changes in source code during software development an
              alt="aKaReZa 95 - Programming, Git - PART B Thumbnail"/>
       </a>
     </td>
+
+  </td>
   </tr>
+  <tr>
+  <td colspan="2">
+
+  > [!CAUTION]
+  > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
+      
+  </td>
+  </tr>  
 </table>
 
 # 🔗 Resources
